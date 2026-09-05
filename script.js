@@ -1,7 +1,7 @@
 function contact() {
 
     window.open(
-        "https://wa.me/918103885400",
+        "https://wa.me/917722963447",
         "_blank"
     );
 
